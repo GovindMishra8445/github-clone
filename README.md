@@ -52,6 +52,7 @@ npm start
 
 Open your browser and visit
 http://localhost:3000
+git checkout -b github-Clone-Updating
 
 
 Usage
